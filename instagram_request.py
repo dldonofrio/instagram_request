@@ -1,6 +1,7 @@
 import requests
+# Allows us to make HTTP requests
 import json
-
+# Allows us to parse JSON data
 
 def instagram_pull(username, number_of_posts):
 	insta_posts = []
