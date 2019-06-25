@@ -22,4 +22,4 @@ def instagram_pull(username, number_of_posts):
 	print(insta_posts)
 	return insta_posts
 
-instagram_pull('doner_agency', 3)
+instagram_pull('dan_donofrio_official', 3)
